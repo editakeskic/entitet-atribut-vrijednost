@@ -1,5 +1,21 @@
-navesti 3 entiteta za modul evidencija nastave:
+EVIDENCIJA NASTAVE = modul
 
-1.
-2.
-3.
+navesti 3 entiteta za modul evidencija nastave,
+za svaki entitet navesti minimalno 3 atributa, 
+za svaki atribut minimalno 1 vrijednost:
+ 
+1. polaznik
+    - ime: Edita, Ivan
+    - prezime: Keškić, Horvat
+    - OIB: 12345678910, 98765432101
+    
+2. grupa
+    - smjer: Web programiranje, Web dizajn
+    - naziv: PP23, WD28
+    - predavač: Tomislav Jakopec, Pavle Vidaković
+
+3. evidencija prisutnosti
+    - polaznik: 1, 21
+    - prisutan: da, ne
+    - grupa: PP23, WD28
+    - datum predavanja: 03.05.2021, 15.08.2021.
