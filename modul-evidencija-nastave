@@ -5,6 +5,7 @@ za svaki entitet navesti minimalno 3 atributa,
 za svaki atribut minimalno 1 vrijednost:
  
 1. polaznik
+    - naziv: 1, 21
     - ime: Edita, Ivan
     - prezime: Keškić, Horvat
     - OIB: 12345678910, 98765432101
